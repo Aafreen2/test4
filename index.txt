@@ -1,0 +1,8 @@
+url of relaxing cat
+https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg
+
+url of cats
+https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg
+
+url of lasagna
+https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
